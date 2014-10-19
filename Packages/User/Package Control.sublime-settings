@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"Bootstrap 3 Snippets",
+		"Can I Use",
+		"CoffeeScript",
+		"CSS3_Syntax",
+		"Emmet",
+		"Grunt",
+		"HTML Boilerplate",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"jQuery",
+		"JSHint",
+		"LESS",
+		"Package Control",
+		"Pretty JSON",
+		"SublimeLinter"
+	]
+}
