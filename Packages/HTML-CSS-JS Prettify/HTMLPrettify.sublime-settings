@@ -7,7 +7,7 @@
     "linux": "/usr/bin/nodejs",
     "osx": "/usr/local/bin/node"
   },
-  "format_on_save": false,
+  "format_on_save": true,
   "format_selection_only": true,
   "print_diagnostics": true
 }

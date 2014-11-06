@@ -10,7 +10,7 @@
         "load-save" - Linting occurs only when a file is loaded and saved.
         "save-only" - Linting occurs only when a file is saved.
     */
-    "sublimelinter": true,
+    "sublimelinter": "save-only",
 
     /*
         Maps language names **as listed at the beginning of the README** (but all lowercase)
@@ -31,8 +31,10 @@
             "ruby": "ruby"
         },
     */
-    "sublimelinter_executable_map":
-    {
+    "sublimelinter_executable_map": {
+
+        "javascript": "C:/Program Files/nodejs/node.exe",
+        "css": "C:/Program Files/nodejs/node.exe"
     },
 
     /*
@@ -43,17 +45,14 @@
         is the linter name **as listed in the README** (all lowercase)
         that the syntax maps to.
     */
-    "sublimelinter_syntax_map":
-    {
+    "sublimelinter_syntax_map": {
         "Python Django": "python",
         "Ruby on Rails": "ruby",
         "C++": "c"
     },
 
     // An array of linter names to disable. Names should be lowercase.
-    "sublimelinter_disable":
-    [
-    ],
+    "sublimelinter_disable": [],
 
     /*
         The minimum delay in seconds (fractional seconds are okay) before
@@ -70,7 +69,7 @@
         outline boxes around the lines, "fill" fills the lines with the outline color,
         and "none" (default) disables all outline styles.
     */
-    "sublimelinter_mark_style": "none",
+    "sublimelinter_mark_style": "red",
 
     /*
         If true, lines with errors or warnings will be filled in with the
@@ -81,7 +80,7 @@
         compatibility reasons, this setting overrides "sublimelinter_mark_style"
         if that one is set to "outline", but has no effect if it's set to "none".
     */
-    "sublimelinter_fill_outlines": true,
+    "sublimelinter_fill_outlines": false,
 
     // If true, lines with errors or warnings will have a gutter mark.
     "sublimelinter_gutter_marks": true,
@@ -98,7 +97,7 @@
         "../User/my-awesome-theme-warning.png"
         These images should all be approximately 32x32px.
     */
-    "sublimelinter_gutter_marks_theme": "simple",
+    "sublimelinter_gutter_marks_theme": "hard",
 
     // If true, the find next/previous error commands will wrap.
     "sublimelinter_wrap_find": true,
@@ -112,30 +111,32 @@
 
     // jshint: options for linting JavaScript. See http://www.jshint.com/docs/#options for more info.
     // By deault, eval is allowed.
-    "jshint_options":
-    {
+    "jshint_options": {
         // To fix column positions for JSHint errors you may want to add `"indent": 1` to your
         // **User** "jshint_options". This issue affects users with tabs for indentation.
         // This fix was reverted due to a conflict with using the `"white": true` option.
         // "indent": 1,
-        "evil": true,
-        "regexdash": true,
+        "strict": true,
+        "noarg": true,
+        "noempty": true,
+        "eqeqeq": true,
+        "undef": true,
+        "curly": true,
+        "forin": true,
+        "devel": true,
+        "jquery": true,
         "browser": true,
         "wsh": true,
-        "trailing": true,
-        "sub": true
+        "evil": true
     },
 
     // A list of command line options to send to gjslint. --nobeep is always sent.
-    "gjslint_options":
-    [
-    ],
+    "gjslint_options": [],
 
     // A list of gjslint error numbers to ignore. The list of error codes is here:
     // http://closure-linter.googlecode.com/svn/trunk/closure_linter/errors.py
-    "gjslint_ignore":
-    [
-        110  // line too long
+    "gjslint_ignore": [
+        110 // line too long
     ],
 
     // CSSLint options:
@@ -144,8 +145,7 @@
     // true => alias to 'error'
     // All rules are enabled by default.
     // Currently the only difference between warnings and errors is in the prefix of the message in the Sublime status bar.
-    "csslint_options":
-    {
+    "csslint_options": {
         "adjoining-classes": "warning",
         "box-model": true,
         "box-sizing": "warning",
@@ -187,8 +187,7 @@
         The list of error codes is in this file: https://github.com/jcrocholl/pep8/blob/master/pep8.py.
         Search for "Ennn:", where nnn is a 3-digit number.
     */
-    "pep8_ignore":
-    [
+    "pep8_ignore": [
         "E501"
     ],
 
@@ -205,9 +204,7 @@
                 "A_GLOBAL_CONSTANT"
             ],
     */
-    "pyflakes_ignore":
-    [
-    ],
+    "pyflakes_ignore": [],
 
     /*
         Ordinarily pyflakes will issue a warning when 'from foo import *' is used,
