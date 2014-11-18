@@ -1,0 +1,1424 @@
+{
+	"folder_history":
+	[
+		"/home/diwer/workspace/angular-phonecat",
+		"/home/diwer/workspace/angular-phonecat/app",
+		"/home/diwer/workspace/angular-phonecat-master",
+		"/home/diwer/workspace/pursuer",
+		"/home/diwer/workspace/firstangularproject",
+		"/home/diwer/workspace/tulin"
+	],
+	"last_window_id": 15,
+	"settings":
+	{
+		"new_window_height": 716.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"hello",
+						"HelloAngular"
+					],
+					[
+						"cont",
+						"controller	Angular.js"
+					],
+					[
+						"modu",
+						"angular.module"
+					],
+					[
+						"fu",
+						"fun	Function"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"aut",
+						"auto"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"pa",
+						"padding-left"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"connt",
+						"contenter"
+					],
+					[
+						"r5",
+						"r5-right"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"fi",
+						"font-size"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"conte",
+						"content"
+					],
+					[
+						"con",
+						"contenter"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"img",
+						"images"
+					],
+					[
+						"fix",
+						"fixed"
+					],
+					[
+						"ri",
+						"right"
+					],
+					[
+						"tea",
+						"text-align"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"lef",
+						"left"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"me",
+						"meta	Tag"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"cen",
+						"center"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"lin",
+						"line-height"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"prp",
+						"Package Control: Remove Package"
+					],
+					[
+						"color",
+						"Color Picker: Insert Color"
+					],
+					[
+						"colo",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"pip",
+						"Package Control: Install Package"
+					],
+					[
+						"co",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"pcl",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: r",
+						"Package Control: Remove Package"
+					],
+					[
+						"setja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"bs3-panel",
+						"Snippet: bs3-panel-heading"
+					],
+					[
+						"js",
+						"Snippet: Google AJAX Libraries: AngularJS"
+					],
+					[
+						"anj",
+						"Snippet: Google AJAX Libraries: AngularJS"
+					],
+					[
+						"snippet:bs-co",
+						"Snippet: bs3-col-1"
+					],
+					[
+						"bs3-ju",
+						"Snippet: bs3-jumbotron"
+					],
+					[
+						"bs3-cdn",
+						"Snippet: bs3-cdn-js"
+					],
+					[
+						"bs3-",
+						"Snippet: bs3-cdn-css"
+					],
+					[
+						"view",
+						"Snippet: <video> with legacy object"
+					],
+					[
+						"htm5",
+						"Set Syntax: HTML5"
+					],
+					[
+						"pcip",
+						"Package Control: Install Package"
+					],
+					[
+						"set",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"set ",
+						"Set Syntax: HTML"
+					]
+				],
+				"width": 308.0
+			},
+			"console":
+			{
+				"height": 153.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/diwer/.config/sublime-text-2/Packages/Prefixr/Default (Linux).sublime-keymap",
+				"/home/diwer/.config/sublime-text-2/Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+				"/home/diwer/workspace/angular-phonecat/app/index.html",
+				"/home/diwer/.config/sublime-text-2/Packages/Theme - Flatland/Flatland Dark.tmTheme",
+				"/home/diwer/.config/sublime-text-2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/diwer/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/diwer/.config/sublime-text-2/Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+				"/home/diwer/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/diwer/workspace/angular-phonecat/app/phones/phones.json",
+				"/home/diwer/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/diwer/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+				"/home/diwer/.config/sublime-text-2/Packages/Alignment/Base File.sublime-settings",
+				"/home/diwer/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/diwer/.config/sublime-text-2/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/home/diwer/.config/sublime-text-2/Packages/User/JavaScript.sublime-settings",
+				"/home/diwer/workspace/angular-phonecat/readme.md",
+				"/home/diwer/.config/sublime-text-2/Packages/MarkdownEditing/README.md",
+				"/home/diwer/workspace/angular-phonecat/app/css/app.css",
+				"/home/diwer/workspace/firstangularproject/app/web/index.html",
+				"/home/diwer/workspace/firstangularproject/app/js/controller.js",
+				"/home/diwer/workspace/firstangularproject/node_modules/angularjs/index.js",
+				"/home/diwer/workspace/firstangularproject/node_modules/angularjs/README.md",
+				"/home/diwer/workspace/tulin/web_Uzoo.html",
+				"/home/diwer/workspace/tulin/index.html",
+				"/home/diwer/workspace/tulin/js/test.js",
+				"/home/diwer/workspace/tulin/css/index.css",
+				"/home/diwer/.config/sublime-text-2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/home/diwer/workspace/test/test.js",
+				"/home/diwer/workspace/test/test.html",
+				"/home/diwer/文档/test.js",
+				"/home/diwer/文档/test.html",
+				"/home/diwer/.config/sublime-text-2/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+				"/home/diwer/sublime-imfix.c"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"blue",
+					"jshint",
+					"javascript",
+					"String",
+					"Storage",
+					"\n",
+					"100",
+					"34px",
+					"50px",
+					"%; ",
+					"% ",
+					"30px",
+					"im",
+					"\n<!--",
+					"}\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						2,
+						0,
+						3,
+						1
+					],
+					[
+						3,
+						0,
+						4,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.309278350515,
+					0.552602126469,
+					0.75,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 74.0
+			},
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 124.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 152.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 2092.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sco",
+						"angular: $scope"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"hello",
+						"HelloAngular"
+					],
+					[
+						"cont",
+						"controller	Angular.js"
+					],
+					[
+						"modu",
+						"angular.module"
+					],
+					[
+						"fu",
+						"fun	Function"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"aut",
+						"auto"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"pa",
+						"padding-left"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"connt",
+						"contenter"
+					],
+					[
+						"r5",
+						"r5-right"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"fi",
+						"font-size"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"conte",
+						"content"
+					],
+					[
+						"con",
+						"contenter"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"img",
+						"images"
+					],
+					[
+						"fix",
+						"fixed"
+					],
+					[
+						"ri",
+						"right"
+					],
+					[
+						"tea",
+						"text-align"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"lef",
+						"left"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"me",
+						"meta	Tag"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"cen",
+						"center"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"lin",
+						"line-height"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<!doctype html>\n<html lang=\"en\" ng-app=\"phonecatApp\">\n<head>\n  <meta charset=\"utf-8\">\n  <title>Google Phone Gallery</title>\n  <link rel=\"stylesheet\" href=\"bower_components/bootstrap/dist/css/bootstrap.css\">\n  <link rel=\"stylesheet\" href=\"css/app.css\">\n  <script src=\"bower_components/angular/angular.js\"></script>\n  <script src=\"bower_components/angular-route/angular-route.js\"></script>\n  <script src=\"js/app.js\"></script>\n  <script src=\"js/controllers.js\"></script>\n  <script src=\"js/filters.js\"></script>\n</head>\n<body>\n\n  <div ng-view></div>\n	\n</body>\n</html>\n",
+					"file": "/home/diwer/workspace/angular-phonecat/app/index.html",
+					"file_size": 563,
+					"file_write_time": 1416292552000000,
+					"settings":
+					{
+						"buffer_size": 564,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<img ng-src=\"{{mainImageUrl}}\" class=\"phone\">\n\n<h1>{{phone.name}}</h1>\n\n<p>{{phone.description}}</p>\n\n<ul class=\"phone-thumbs\">\n  <li ng-repeat=\"img in phone.images\">\n    <img ng-src=\"{{img}}\" ng-click=\"setImage(img)\">\n  </li>\n</ul>\n<ul class=\"specs\">\n  <li>\n    <span>Availability and Networks</span>\n    <dl>\n      <dt>Availability</dt>\n      <dd ng-repeat=\"availability in phone.availability\">{{availability}}</dd>\n    </dl>\n  </li>\n  <li>\n    <span>Battery</span>\n    <dl>\n      <dt>Type</dt>\n      <dd>{{phone.battery.type}}</dd>\n      <dt>Talk Time</dt>\n      <dd>{{phone.battery.talkTime}}</dd>\n      <dt>Standby time (max)</dt>\n      <dd>{{phone.battery.standbyTime}}</dd>\n    </dl>\n  </li>\n  <li>\n    <span>Storage and Memory</span>\n    <dl>\n      <dt>RAM</dt>\n      <dd>{{phone.storage.ram}}</dd>\n      <dt>Internal Storage</dt>\n      <dd>{{phone.storage.flash}}</dd>\n    </dl>\n  </li>\n  <li>\n    <span>Connectivity</span>\n    <dl>\n      <dt>Network Support</dt>\n      <dd>{{phone.connectivity.cell}}</dd>\n      <dt>WiFi</dt>\n      <dd>{{phone.connectivity.wifi}}</dd>\n      <dt>Bluetooth</dt>\n      <dd>{{phone.connectivity.bluetooth}}</dd>\n      <dt>Infrared</dt>\n      <dd>{{phone.connectivity.infrared | checkmark}}</dd>\n      <dt>GPS</dt>\n      <dd>{{phone.connectivity.gps | checkmark}}</dd>\n    </dl>\n  </li>\n  <li>\n    <span>Android</span>\n    <dl>\n      <dt>OS Version</dt>\n      <dd>{{phone.android.os}}</dd>\n      <dt>UI</dt>\n      <dd>{{phone.android.ui}}</dd>\n    </dl>\n  </li>\n  <li>\n    <span>Size and Weight</span>\n    <dl>\n      <dt>Dimensions</dt>\n      <dd ng-repeat=\"dim in phone.sizeAndWeight.dimensions\">{{dim}}</dd>\n      <dt>Weight</dt>\n      <dd>{{phone.sizeAndWeight.weight}}</dd>\n    </dl>\n  </li>\n  <li>\n    <span>Display</span>\n    <dl>\n      <dt>Screen size</dt>\n      <dd>{{phone.display.screenSize}}</dd>\n      <dt>Screen resolution</dt>\n      <dd>{{phone.display.screenResolution}}</dd>\n      <dt>Touch screen</dt>\n      <dd>{{phone.display.touchScreen | checkmark}}</dd>\n    </dl>\n  </li>\n  <li>\n    <span>Hardware</span>\n    <dl>\n      <dt>CPU</dt>\n      <dd>{{phone.hardware.cpu}}</dd>\n      <dt>USB</dt>\n      <dd>{{phone.hardware.usb}}</dd>\n      <dt>Audio / headphone jack</dt>\n      <dd>{{phone.hardware.audioJack}}</dd>\n      <dt>FM Radio</dt>\n      <dd>{{phone.hardware.fmRadio | checkmark}}</dd>\n      <dt>Accelerometer</dt>\n      <dd>{{phone.hardware.accelerometer | checkmark}}</dd>\n    </dl>\n  </li>\n  <li>\n    <span>Camera</span>\n    <dl>\n      <dt>Primary</dt>\n      <dd>{{phone.camera.primary}}</dd>\n      <dt>Features</dt>\n      <dd>{{phone.camera.features.join(', ')}}</dd>\n    </dl>\n  </li>\n  <li>\n    <span>Additional Features</span>\n    <dd>{{phone.additionalFeatures}}</dd>\n  </li>\n</ul>\n",
+					"file": "/home/diwer/workspace/angular-phonecat/app/partials/phone-detail.html",
+					"file_size": 2754,
+					"file_write_time": 1416293257000000,
+					"settings":
+					{
+						"buffer_size": 2753,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/diwer/workspace/angular-phonecat/app/css/app.css",
+					"settings":
+					{
+						"buffer_size": 1067,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/diwer/workspace/angular-phonecat/app/js/filters.js",
+					"settings":
+					{
+						"buffer_size": 177,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/diwer/workspace/angular-phonecat/app/js/app.js",
+					"settings":
+					{
+						"buffer_size": 549,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/diwer/workspace/angular-phonecat/app/js/controllers.js",
+					"settings":
+					{
+						"buffer_size": 782,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"html",
+						"Snippet: html"
+					],
+					[
+						"prp",
+						"Package Control: Remove Package"
+					],
+					[
+						"color",
+						"Color Picker: Insert Color"
+					],
+					[
+						"colo",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"pip",
+						"Package Control: Install Package"
+					],
+					[
+						"co",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"pcl",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: r",
+						"Package Control: Remove Package"
+					],
+					[
+						"setja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"bs3-panel",
+						"Snippet: bs3-panel-heading"
+					],
+					[
+						"js",
+						"Snippet: Google AJAX Libraries: AngularJS"
+					],
+					[
+						"anj",
+						"Snippet: Google AJAX Libraries: AngularJS"
+					],
+					[
+						"snippet:bs-co",
+						"Snippet: bs3-col-1"
+					],
+					[
+						"bs3-ju",
+						"Snippet: bs3-jumbotron"
+					],
+					[
+						"bs3-cdn",
+						"Snippet: bs3-cdn-js"
+					],
+					[
+						"bs3-",
+						"Snippet: bs3-cdn-css"
+					],
+					[
+						"view",
+						"Snippet: <video> with legacy object"
+					],
+					[
+						"htm5",
+						"Set Syntax: HTML5"
+					],
+					[
+						"pcip",
+						"Package Control: Install Package"
+					],
+					[
+						"set",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"set ",
+						"Set Syntax: HTML"
+					]
+				],
+				"width": 275.0
+			},
+			"console":
+			{
+				"height": 153.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/diwer/workspace/angular-phonecat/app/js/directives.js",
+				"/home/diwer/workspace/angular-phonecat/app/hello.html",
+				"/home/diwer/.config/sublime-text-2/Packages/Prefixr/Default (Linux).sublime-keymap",
+				"/home/diwer/.config/sublime-text-2/Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+				"/home/diwer/workspace/angular-phonecat/app/index.html",
+				"/home/diwer/.config/sublime-text-2/Packages/Theme - Flatland/Flatland Dark.tmTheme",
+				"/home/diwer/.config/sublime-text-2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/diwer/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/diwer/.config/sublime-text-2/Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+				"/home/diwer/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/diwer/workspace/angular-phonecat/app/phones/phones.json",
+				"/home/diwer/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/diwer/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+				"/home/diwer/.config/sublime-text-2/Packages/Alignment/Base File.sublime-settings",
+				"/home/diwer/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/diwer/.config/sublime-text-2/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/home/diwer/.config/sublime-text-2/Packages/User/JavaScript.sublime-settings",
+				"/home/diwer/workspace/angular-phonecat/readme.md",
+				"/home/diwer/.config/sublime-text-2/Packages/MarkdownEditing/README.md",
+				"/home/diwer/workspace/angular-phonecat/app/css/app.css",
+				"/home/diwer/workspace/firstangularproject/app/web/index.html",
+				"/home/diwer/workspace/firstangularproject/app/js/controller.js",
+				"/home/diwer/workspace/firstangularproject/node_modules/angularjs/index.js",
+				"/home/diwer/workspace/firstangularproject/node_modules/angularjs/README.md",
+				"/home/diwer/workspace/tulin/web_Uzoo.html",
+				"/home/diwer/workspace/tulin/index.html",
+				"/home/diwer/workspace/tulin/js/test.js",
+				"/home/diwer/workspace/tulin/css/index.css",
+				"/home/diwer/.config/sublime-text-2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/home/diwer/workspace/test/test.js",
+				"/home/diwer/workspace/test/test.html",
+				"/home/diwer/文档/test.js",
+				"/home/diwer/文档/test.html",
+				"/home/diwer/.config/sublime-text-2/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+				"/home/diwer/sublime-imfix.c"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"blue",
+					"jshint",
+					"javascript",
+					"String",
+					"Storage",
+					"\n",
+					"100",
+					"34px",
+					"50px",
+					"%; ",
+					"% ",
+					"30px",
+					"im",
+					"\n<!--",
+					"}\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/diwer/workspace/angular-phonecat"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/diwer/workspace/angular-phonecat/app/index.html",
+							"settings":
+							{
+								"buffer_size": 564,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										563,
+										563
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/diwer/workspace/angular-phonecat/app/partials/phone-detail.html",
+							"settings":
+							{
+								"buffer_size": 2753,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										232,
+										232
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/home/diwer/workspace/angular-phonecat/app/css/app.css",
+							"settings":
+							{
+								"buffer_size": 1067,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12,
+										12
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/diwer/workspace/angular-phonecat/app/js/filters.js",
+							"settings":
+							{
+								"buffer_size": 177,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										177,
+										177
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 4,
+							"file": "/home/diwer/workspace/angular-phonecat/app/js/app.js",
+							"settings":
+							{
+								"buffer_size": 549,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										527,
+										527
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 5,
+							"file": "/home/diwer/workspace/angular-phonecat/app/js/controllers.js",
+							"settings":
+							{
+								"buffer_size": 782,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										720,
+										720
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						2,
+						0,
+						3,
+						1
+					],
+					[
+						3,
+						0,
+						4,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.309278350515,
+					0.568066043995,
+					0.64175257732,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 74.0
+			},
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 124.0
+			},
+			"position": "0,0,0,0,0,669,24,2761,740,2732,768",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 152.0,
+			"status_bar_visible": true,
+			"window_id": 14,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -2,22 +2,29 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"AngularJS Snippets",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Can I Use",
+		"Color Scheme - Frontend Delight",
+		"Color Scheme - Nice Blue Soda",
+		"ColorPick",
+		"ColorSchemeEditor",
 		"CSS Snippets",
 		"CSSLint",
 		"CTags",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
+		"HTML5",
 		"JavaScript & NodeJS Snippets",
 		"JavaScript Patterns",
 		"jQuery",
-		"JSHint",
-		"MarkdownEditing",
 		"Package Control",
 		"Prefixr",
-		"SublimeLinter",
-		"TagWrapper"
+		"TagWrapper",
+		"Theme - Coffee",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Visual Studio Dark"
 	]
 }
